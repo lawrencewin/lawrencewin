@@ -2,7 +2,7 @@
 
 😄 Pronouns: he / him
 
-I'm a computer science major studying at UT Austin. I graduate in Spring 2022.
+I'm a UT Austin alum who graduated in Spring 2022.
 I'm currently working at Microsoft, and I've interned at Amazon and Verizon in the past.
 My best project is the Pannavasa Meditation Center's website right [here](https://www.pmcusa.org).
 
