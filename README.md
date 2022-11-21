@@ -4,7 +4,6 @@
 
 I'm a UT Austin alum who graduated in Spring 2022.
 I'm currently working at Microsoft, and I've interned at Amazon and Verizon in the past.
-My best project is the Pannavasa Meditation Center's website right [here](https://www.pmcusa.org).
 
 Email me at lawrence.j.win@gmail.com for inquiries.
 <!--
